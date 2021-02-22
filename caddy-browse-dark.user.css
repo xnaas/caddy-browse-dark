@@ -8,7 +8,7 @@
 @author        xnaas
 ==/UserStyle== */
 
-@-moz-document url-prefix("https://actionsack.com/img/"), url-prefix("https://xnaas.info/chatlog/"), url-prefix("https://xnaas.info/tmp/"), domain("dl.xnaas.info"), domain("p.xnaas.info") {
+@-moz-document url-prefix("https://actionsack.com/img/"), url-prefix("https://xnaas.info/chatlog/"), url-prefix("https://xnaas.info/tmp/"), domain("dl.actionsack.com"), domain("p.xnaas.info") {
 body {
   background-color: #2f343f !important;
 }
